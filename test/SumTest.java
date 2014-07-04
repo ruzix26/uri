@@ -1,4 +1,5 @@
 
+import org.junit.Before;
 import org.junit.Test;
 
 /**
@@ -6,10 +7,15 @@ import org.junit.Test;
  */
 public class SumTest {
 
+    private Sum sum;
+
+    @Before
+    public void setUp(){
+        sum = new Sum();
+    }
+
     @Test
     public void testSum(){
-
-        Sum sum = new Sum();
         sum.sumNumbers(10, 9);
 
     }
