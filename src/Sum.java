@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 /**
  * Created by gustavo on 7/3/14.
+ *
+ * Uri 1001 - Extremely Basic
  */
  class Sum {
 
