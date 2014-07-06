@@ -75,10 +75,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SalaryBonus.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SalaryBonus.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/SalaryBonus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="31" selection-start="92" selection-end="92" vertical-scroll-proportion="0.12854758" vertical-offset="13" max-vertical-offset="864">
+            <state line="31" column="0" selection-start="595" selection-end="595" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="864">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleCalculateTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/SimpleCalculateTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="29" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleCalculate.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/SimpleCalculate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="51" selection-start="949" selection-end="949" vertical-scroll-proportion="0.6994992" vertical-offset="337" max-vertical-offset="936">
               <folding />
             </state>
           </provider>
@@ -121,6 +141,8 @@
         <option value="$PROJECT_DIR$/test/SalaryBonus.java" />
         <option value="$PROJECT_DIR$/test/SalaryBonusTest.java" />
         <option value="$PROJECT_DIR$/src/br/com/uri/beginner/SalaryBonus.java" />
+        <option value="$PROJECT_DIR$/test/SimpleCalculateTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/uri/beginner/SimpleCalculate.java" />
       </list>
     </option>
   </component>
@@ -255,51 +277,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SalaryBonus">
-    <configuration default="false" name="EmployTest.numberOfEmploys" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="uri" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="PACKAGE_NAME" value="br.com.uri.beginner.test" />
-      <option name="MAIN_CLASS_NAME" value="br.com.uri.beginner.test.EmployTest" />
-      <option name="METHOD_NAME" value="numberOfEmploys" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="EmployTest.calculateSalary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="uri" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="PACKAGE_NAME" value="br.com.uri.beginner.test" />
-      <option name="MAIN_CLASS_NAME" value="br.com.uri.beginner.test.EmployTest" />
-      <option name="METHOD_NAME" value="calculateSalary" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.SimpleCalculate">
     <configuration default="false" name="Salary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.uri.beginner.Salary" />
       <option name="VM_PARAMETERS" />
@@ -340,6 +318,44 @@
     </configuration>
     <configuration default="false" name="SalaryBonus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.uri.beginner.SalaryBonus" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="uri" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SimpleCalculateTest.simpleCalculate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="uri" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SimpleCalculateTest" />
+      <option name="METHOD_NAME" value="simpleCalculate" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SimpleCalculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.uri.beginner.SimpleCalculate" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -504,19 +520,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.EmployTest.numberOfEmploys" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.EmployTest.calculateSalary" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Salary" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.SalaryBonusTest.getSalary" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SalaryBonus" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Salary" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SalaryBonusTest.getSalary" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SalaryBonus" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.SimpleCalculateTest.simpleCalculate" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SimpleCalculate" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SalaryBonus" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.SalaryBonusTest.getSalary" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Salary" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.EmployTest.calculateSalary" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.EmployTest.numberOfEmploys" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SimpleCalculate" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SimpleCalculateTest.simpleCalculate" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SalaryBonus" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SalaryBonusTest.getSalary" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Salary" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -782,7 +798,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/SalaryBonus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="31" selection-start="92" selection-end="92" vertical-scroll-proportion="0.12854758" vertical-offset="13" max-vertical-offset="864">
+        <state line="31" column="0" selection-start="595" selection-end="595" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="864">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SimpleCalculateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="29" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/SimpleCalculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="51" selection-start="949" selection-end="949" vertical-scroll-proportion="0.6994992" vertical-offset="337" max-vertical-offset="936">
           <folding />
         </state>
       </provider>
