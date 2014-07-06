@@ -64,19 +64,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Sum.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/Sum.java">
+      <file leaf-file-name="SalaryBonusTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/SalaryBonusTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="32" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="738">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Average2Test.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/br/com/uri/beginner/test/Average2Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="38" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="612">
+            <state line="23" column="29" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,57 +75,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Average2.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/Average2.java">
+      <file leaf-file-name="SalaryBonus.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/SalaryBonus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="23" selection-start="120" selection-end="120" vertical-scroll-proportion="0.21035059" vertical-offset="0" max-vertical-offset="972">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AverageTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/br/com/uri/beginner/test/AverageTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="648">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Average.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/Average.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="26" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="846">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sum2.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/Sum2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="24" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Product.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/Product.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="28" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="828">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Circle.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/Circle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="32" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
+            <state line="5" column="31" selection-start="92" selection-end="92" vertical-scroll-proportion="0.12854758" vertical-offset="13" max-vertical-offset="864">
               <folding />
             </state>
           </provider>
@@ -169,6 +113,14 @@
         <option value="$PROJECT_DIR$/test/br/com/uri/beginner/test/AverageTest.java" />
         <option value="$PROJECT_DIR$/test/br/com/uri/beginner/test/Average2Test.java" />
         <option value="$PROJECT_DIR$/src/br/com/uri/beginner/Average2.java" />
+        <option value="$PROJECT_DIR$/test/br/com/uri/beginner/test/DiferenceTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/uri/beginner/Diference.java" />
+        <option value="$PROJECT_DIR$/src/br/com/uri/beginner/Employ.java" />
+        <option value="$PROJECT_DIR$/test/br/com/uri/beginner/test/EmployTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/uri/beginner/Salary.java" />
+        <option value="$PROJECT_DIR$/test/SalaryBonus.java" />
+        <option value="$PROJECT_DIR$/test/SalaryBonusTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/uri/beginner/SalaryBonus.java" />
       </list>
     </option>
   </component>
@@ -237,6 +189,20 @@
               <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uri" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uri" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -284,19 +250,19 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="br.com.uri.beginner." />
       <recent name="br.com.uri.beginner" />
+      <recent name="br.com.uri.beginner." />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Average2">
-    <configuration default="false" name="AverageTest.testAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.SalaryBonus">
+    <configuration default="false" name="EmployTest.numberOfEmploys" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="uri" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="PACKAGE_NAME" value="br.com.uri.beginner.test" />
-      <option name="MAIN_CLASS_NAME" value="br.com.uri.beginner.test.AverageTest" />
-      <option name="METHOD_NAME" value="testAverage" />
+      <option name="MAIN_CLASS_NAME" value="br.com.uri.beginner.test.EmployTest" />
+      <option name="METHOD_NAME" value="numberOfEmploys" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" value="" />
@@ -312,8 +278,30 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.uri.beginner.Average" />
+    <configuration default="false" name="EmployTest.calculateSalary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="uri" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="br.com.uri.beginner.test" />
+      <option name="MAIN_CLASS_NAME" value="br.com.uri.beginner.test.EmployTest" />
+      <option name="METHOD_NAME" value="calculateSalary" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Salary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.uri.beginner.Salary" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -328,35 +316,13 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Average2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="SalaryBonusTest.getSalary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="uri" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="PACKAGE_NAME" value="br.com.uri.beginner.test" />
-      <option name="MAIN_CLASS_NAME" value="br.com.uri.beginner.test.Average2Test" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Average2Test.testAverage2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="uri" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="PACKAGE_NAME" value="br.com.uri.beginner.test" />
-      <option name="MAIN_CLASS_NAME" value="br.com.uri.beginner.test.Average2Test" />
-      <option name="METHOD_NAME" value="testAverage2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SalaryBonusTest" />
+      <option name="METHOD_NAME" value="getSalary" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" value="" />
@@ -372,8 +338,8 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Average2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.uri.beginner.Average2" />
+    <configuration default="false" name="SalaryBonus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.uri.beginner.SalaryBonus" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -538,19 +504,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.AverageTest.testAverage" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Average" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.Average2Test" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.Average2Test.testAverage2" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Average2" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.EmployTest.numberOfEmploys" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.EmployTest.calculateSalary" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Salary" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.SalaryBonusTest.getSalary" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SalaryBonus" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Average2" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.Average2Test.testAverage2" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.Average2Test" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Average" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.AverageTest.testAverage" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SalaryBonus" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SalaryBonusTest.getSalary" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Salary" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.EmployTest.calculateSalary" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.EmployTest.numberOfEmploys" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -713,38 +679,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/Average.java">
+    <entry file="file://$PROJECT_DIR$/test/br/com/uri/beginner/test/Average2Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="26" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="846">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/Sum2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="24" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="28" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="828">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="32" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="32" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="738">
-          <folding />
+        <state line="24" column="38" selection-start="448" selection-end="448" vertical-scroll-proportion="0.6994992" vertical-offset="13" max-vertical-offset="612">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -752,23 +692,97 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="648">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/br/com/uri/beginner/test/Average2Test.java">
+    <entry file="file://$PROJECT_DIR$/test/br/com/uri/beginner/test/EmployTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="38" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="612">
+        <state line="33" column="1" selection-start="638" selection-end="638" vertical-scroll-proportion="0.93989986" vertical-offset="31" max-vertical-offset="720">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/br/com/uri/beginner/test/DiferenceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="62" selection-start="486" selection-end="486" vertical-scroll-proportion="0.721202" vertical-offset="0" max-vertical-offset="630">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/Average.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="26" selection-start="287" selection-end="287" vertical-scroll-proportion="0.5409015" vertical-offset="0" max-vertical-offset="846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="32" selection-start="93" selection-end="93" vertical-scroll-proportion="0.15025042" vertical-offset="0" max-vertical-offset="738">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/Sum2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="24" selection-start="121" selection-end="121" vertical-scroll-proportion="0.21035059" vertical-offset="0" max-vertical-offset="810">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/Average2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="23" selection-start="120" selection-end="120" vertical-scroll-proportion="0.21035059" vertical-offset="0" max-vertical-offset="972">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="32" selection-start="93" selection-end="93" vertical-scroll-proportion="0.15025042" vertical-offset="0" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/Diference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="23" selection-start="120" selection-end="120" vertical-scroll-proportion="0.21035059" vertical-offset="0" max-vertical-offset="900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="28" selection-start="125" selection-end="125" vertical-scroll-proportion="0.21035059" vertical-offset="0" max-vertical-offset="828">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/Salary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="3" selection-start="97" selection-end="97" vertical-scroll-proportion="0.1803005" vertical-offset="0" max-vertical-offset="1008">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SalaryBonusTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="29" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/SalaryBonus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="31" selection-start="92" selection-end="92" vertical-scroll-proportion="0.12854758" vertical-offset="13" max-vertical-offset="864">
           <folding />
         </state>
       </provider>
