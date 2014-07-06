@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 /**
  * Created by gustavo on 7/6/14.
+ *
+ * Uri 1003 - Simple Sum
  */
 public class Sum2 {
 
