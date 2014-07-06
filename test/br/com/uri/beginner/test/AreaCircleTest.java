@@ -1,3 +1,6 @@
+package br.com.uri.beginner.test;
+
+import br.com.uri.beginner.Circle;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -17,6 +20,5 @@ public class AreaCircleTest {
     public void testCalculateCircleArea(){
 
         circle.calculateArea(2);
-
     }
 }

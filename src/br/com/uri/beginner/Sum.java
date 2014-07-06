@@ -1,3 +1,5 @@
+package br.com.uri.beginner;
+
 import java.util.Scanner;
 
 /**
@@ -5,7 +7,7 @@ import java.util.Scanner;
  *
  * Uri 1001 - Extremely Basic
  */
- class Sum {
+public class Sum {
 
 
     public static int sumNumbers(int a, int b) {

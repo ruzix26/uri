@@ -1,9 +1,11 @@
+package br.com.uri.beginner;
+
 import java.util.Scanner;
 
 /**
  * Created by gustavo on 7/3/14.
  */
-    class Circle {
+public class Circle {
 
     private static final double PI = 3.14159;
 

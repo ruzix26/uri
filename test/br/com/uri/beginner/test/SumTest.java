@@ -1,4 +1,6 @@
+package br.com.uri.beginner.test;
 
+import br.com.uri.beginner.Sum;
 import org.junit.Before;
 import org.junit.Test;
 
