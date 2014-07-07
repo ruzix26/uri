@@ -7,7 +7,7 @@ import org.junit.Test;
 /**
  * Created by gustavo on 7/3/14.
  */
-public class AreaCircleTest {
+public class CircleTest {
 
     private Circle circle;
 

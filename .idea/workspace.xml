@@ -64,10 +64,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SalaryBonusTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/SalaryBonusTest.java">
+      <file leaf-file-name="SphereTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/br/com/uri/beginner/test/SphereTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="29" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+            <state line="23" column="35" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,19 +75,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SalaryBonus.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/SalaryBonus.java">
+      <file leaf-file-name="Sphere.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/Sphere.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="595" selection-end="595" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="864">
+            <state line="11" column="46" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="792">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleCalculateTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/SimpleCalculateTest.java">
+      <file leaf-file-name="AreaTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/br/com/uri/beginner/test/AreaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="29" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
+            <state line="49" column="51" selection-start="999" selection-end="999" vertical-scroll-proportion="0.0" vertical-offset="445" max-vertical-offset="1044">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,11 +95,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleCalculate.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/SimpleCalculate.java">
+      <file leaf-file-name="Area.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/Area.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="51" selection-start="949" selection-end="949" vertical-scroll-proportion="0.6994992" vertical-offset="337" max-vertical-offset="936">
+            <state line="66" column="33" selection-start="0" selection-end="1602" vertical-scroll-proportion="0.5409015" vertical-offset="864" max-vertical-offset="1602">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CircleTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/br/com/uri/beginner/test/CircleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="3" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -124,7 +135,6 @@
         <option value="$PROJECT_DIR$/src/Sum2.java" />
         <option value="$PROJECT_DIR$/test/Sum2Test.java" />
         <option value="$PROJECT_DIR$/test/br/com/uri/beginner/test/Sum2Test.java" />
-        <option value="$PROJECT_DIR$/test/br/com/uri/beginner/test/AreaCircleTest.java" />
         <option value="$PROJECT_DIR$/test/br/com/uri/beginner/test/ProductTest.java" />
         <option value="$PROJECT_DIR$/src/br/com/uri/beginner/Sum2.java" />
         <option value="$PROJECT_DIR$/src/br/com/uri/beginner/Product.java" />
@@ -143,6 +153,12 @@
         <option value="$PROJECT_DIR$/src/br/com/uri/beginner/SalaryBonus.java" />
         <option value="$PROJECT_DIR$/test/SimpleCalculateTest.java" />
         <option value="$PROJECT_DIR$/src/br/com/uri/beginner/SimpleCalculate.java" />
+        <option value="$PROJECT_DIR$/test/br/com/uri/beginner/test/SphereTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/uri/beginner/Sphere.java" />
+        <option value="$PROJECT_DIR$/test/br/com/uri/beginner/test/AreaCircleTest.java" />
+        <option value="$PROJECT_DIR$/test/br/com/uri/beginner/test/CircleTest.java" />
+        <option value="$PROJECT_DIR$/test/br/com/uri/beginner/test/AreaTest.java" />
+        <option value="$PROJECT_DIR$/src/br/com/uri/beginner/Area.java" />
       </list>
     </option>
   </component>
@@ -178,7 +194,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -250,6 +265,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -268,7 +284,7 @@
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
     <property name="FullScreen" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../spock-example" />
-    <property name="SearchEverywhereHistory" value="&#10;%" />
+    <property name="SearchEverywhereHistory" value="*&#10;%" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -277,30 +293,36 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimpleCalculate">
-    <configuration default="false" name="Salary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.uri.beginner.Salary" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+  <component name="RunManager" selected="Application.Area">
+    <configuration default="false" name="AreaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="uri" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="br.com.uri.beginner.test" />
+      <option name="MAIN_CLASS_NAME" value="br.com.uri.beginner.test.AreaTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="uri" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
       <envs />
+      <patterns />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="SalaryBonusTest.getSalary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="AreaTest.testCalculateAreaCircle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="uri" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SalaryBonusTest" />
-      <option name="METHOD_NAME" value="getSalary" />
+      <option name="PACKAGE_NAME" value="br.com.uri.beginner.test" />
+      <option name="MAIN_CLASS_NAME" value="br.com.uri.beginner.test.AreaTest" />
+      <option name="METHOD_NAME" value="testCalculateAreaCircle" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" value="" />
@@ -316,29 +338,13 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="SalaryBonus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.uri.beginner.SalaryBonus" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="uri" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SimpleCalculateTest.simpleCalculate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="AreaTest.testCalculateAreaTrapezium" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="uri" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SimpleCalculateTest" />
-      <option name="METHOD_NAME" value="simpleCalculate" />
+      <option name="PACKAGE_NAME" value="br.com.uri.beginner.test" />
+      <option name="MAIN_CLASS_NAME" value="br.com.uri.beginner.test.AreaTest" />
+      <option name="METHOD_NAME" value="testCalculateAreaTrapezium" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" value="" />
@@ -354,8 +360,30 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="SimpleCalculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.uri.beginner.SimpleCalculate" />
+    <configuration default="false" name="AreaTest.testCalculateAreaSquare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="uri" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="br.com.uri.beginner.test" />
+      <option name="MAIN_CLASS_NAME" value="br.com.uri.beginner.test.AreaTest" />
+      <option name="METHOD_NAME" value="testCalculateAreaSquare" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Area" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.uri.beginner.Area" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -520,19 +548,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Salary" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.SalaryBonusTest.getSalary" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SalaryBonus" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.SimpleCalculateTest.simpleCalculate" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SimpleCalculate" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.AreaTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.AreaTest.testCalculateAreaCircle" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.AreaTest.testCalculateAreaTrapezium" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.AreaTest.testCalculateAreaSquare" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Area" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SimpleCalculate" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.SimpleCalculateTest.simpleCalculate" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SalaryBonus" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SalaryBonusTest.getSalary" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Salary" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Area" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.AreaTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.AreaTest.testCalculateAreaSquare" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.AreaTest.testCalculateAreaTrapezium" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.AreaTest.testCalculateAreaCircle" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -613,7 +641,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/br/com/uri/beginner/test/AreaCircleTest.java">
+    <entry file="file://$PROJECT_DIR$/test/br/com/uri/beginner/test/CircleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="24" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="504">
           <folding>
@@ -643,7 +671,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/br/com/uri/beginner/test/AreaCircleTest.java">
+    <entry file="file://$PROJECT_DIR$/test/br/com/uri/beginner/test/CircleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="24" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="504">
           <folding>
@@ -665,15 +693,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="docComment;class#Sum2Test#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/br/com/uri/beginner/test/AreaCircleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="11" selection-start="230" selection-end="230" vertical-scroll-proportion="0.39065108" vertical-offset="0" max-vertical-offset="599">
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -787,9 +806,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/SalaryBonusTest.java">
+    <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/SimpleCalculate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="29" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+        <state line="42" column="51" selection-start="949" selection-end="949" vertical-scroll-proportion="0.0" vertical-offset="337" max-vertical-offset="936">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SimpleCalculateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="29" selection-start="447" selection-end="447" vertical-scroll-proportion="0.6611018" vertical-offset="0" max-vertical-offset="599">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -798,23 +824,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/SalaryBonus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="595" selection-end="595" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="864">
+        <state line="31" column="0" selection-start="595" selection-end="595" vertical-scroll-proportion="0.9315526" vertical-offset="0" max-vertical-offset="864">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/SimpleCalculateTest.java">
+    <entry file="file://$PROJECT_DIR$/test/SalaryBonusTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="29" selection-start="447" selection-end="447" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
+        <state line="23" column="29" selection-start="420" selection-end="420" vertical-scroll-proportion="0.6911519" vertical-offset="0" max-vertical-offset="599">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/SimpleCalculate.java">
+    <entry file="file://$PROJECT_DIR$/test/br/com/uri/beginner/test/SphereTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="51" selection-start="949" selection-end="949" vertical-scroll-proportion="0.6994992" vertical-offset="337" max-vertical-offset="936">
+        <state line="23" column="35" selection-start="442" selection-end="442" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/Sphere.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="46" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="792">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/br/com/uri/beginner/test/CircleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="3" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/br/com/uri/beginner/test/AreaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="51" selection-start="999" selection-end="999" vertical-scroll-proportion="0.0" vertical-offset="445" max-vertical-offset="1044">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/uri/beginner/Area.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="33" selection-start="0" selection-end="1602" vertical-scroll-proportion="0.5409015" vertical-offset="864" max-vertical-offset="1602">
           <folding />
         </state>
       </provider>
